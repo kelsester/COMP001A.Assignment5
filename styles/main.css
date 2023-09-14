@@ -71,3 +71,10 @@ main, footer{
   display: block;
   margin: auto;
 }
+
+/*amethyst image css*/
+#amethyst img{
+  width: 30%;
+  display: block;
+  margin: auto;
+}
