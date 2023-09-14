@@ -78,3 +78,17 @@ main, footer{
   display: block;
   margin: auto;
 }
+
+/*pearl image css*/
+#pearl img{
+  width: 30%;
+  display: block;
+  margin: auto;
+}
+
+/*steven image css*/
+#steven img{
+  width: 30%;
+  display: block;
+  margin: auto;
+}
